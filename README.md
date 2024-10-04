@@ -31,12 +31,12 @@ BhashaSutra/
 │   ├── baseline/               # Experiment folder for the baseline model
 │   └── improved/               # Experiment folder with improvements and hyperparameter tuning
 │
-├── explore/                # Logging and checkpoints for different model versions
+├── explore/                     # Logging and checkpoints for different model versions
 │   ├── libraries/               # Experiment folder for the baseline model
-│   └── / 
-├── logs/                       # Training logs and metrics
+│   └── understand_LLM/          # Experiment folder with improvements and hyperparameter tuning
+├── logs/                        # Training logs and metrics
 │
-├── notebooks/                  # Jupyter notebooks for exploratory work and experiments
+├── notebooks/                   # Jupyter notebooks for exploratory work and experiments
 │   ├── data_preprocessing.ipynb # Data preprocessing steps
 │   ├── model_testing.ipynb      # Testing model outputs
 │   └── pytorch_concepts.ipynb   # Exploring PyTorch core concepts (autograd, tensors, etc.)
